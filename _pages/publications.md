@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}--->
 # Articles
-Seddik, Mohamed El Amine, Suei-Wen Chen, Soufiane Hayou, Pierre Youssef, and Merouane Debbah. "[How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse.]"(https://arxiv.org/abs/2404.05090) arXiv preprint arXiv:2404.05090 (2024).
+Seddik, Mohamed El Amine, Suei-Wen Chen, Soufiane Hayou, Pierre Youssef, and Merouane Debbah. "[How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse.](https://arxiv.org/abs/2404.05090)" arXiv preprint arXiv:2404.05090 (2024).
 
 
 # Thesis
