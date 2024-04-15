@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /wordpress/Notes & Blogs/
 ---
-
+<!-- Need to change extension back to htmd to use the stuff below (intended way) -->
 <!-- {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
