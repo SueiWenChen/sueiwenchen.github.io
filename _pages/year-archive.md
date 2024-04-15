@@ -4,7 +4,7 @@ permalink: /year-archive/
 title: "Blog posts"
 author_profile: true
 redirect_from:
-  - /wordpress/blog-posts/
+  - /wordpress/Notes & Blogs/
 ---
 
 <!-- {% include base_path %}
