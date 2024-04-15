@@ -1,0 +1,12 @@
+---
+title: "How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse"
+collection: publications
+permalink: /publication/2024-04-07-recursive-training
+excerpt: 'The phenomenon of model collapse, introduced in (Shumailov et al., 2023), refers to the deterioration in performance that occurs when new models are trained on synthetic data generated from previously trained models. This recursive training loop makes the tails of the original distribution disappear, thereby making future-generation models forget about the initial (real) distribution. With the aim of rigorously understanding model collapse in language models, we consider in this paper a statistical model that allows us to characterize the impact of various recursive training scenarios. Specifically, we demonstrate that model collapse cannot be avoided when training solely on synthetic data. However, when mixing both real and synthetic data, we provide an estimate of a maximal amount of synthetic data below which model collapse can eventually be avoided. Our theoretical conclusions are further supported by empirical validations.'
+date: 2024-04-07
+venue: 'COLM under review'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://arxiv.org/abs/2404.05090)'
+citation: 'El Amine Seddik, Mohamed, et al. &quot;How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse.&quot; arXiv e-prints (2024): arXiv-2404.'
+---
+
+The phenomenon of model collapse, introduced in (Shumailov et al., 2023), refers to the deterioration in performance that occurs when new models are trained on synthetic data generated from previously trained models. This recursive training loop makes the tails of the original distribution disappear, thereby making future-generation models forget about the initial (real) distribution. With the aim of rigorously understanding model collapse in language models, we consider in this paper a statistical model that allows us to characterize the impact of various recursive training scenarios. Specifically, we demonstrate that model collapse cannot be avoided when training solely on synthetic data. However, when mixing both real and synthetic data, we provide an estimate of a maximal amount of synthetic data below which model collapse can eventually be avoided. Our theoretical conclusions are further supported by empirical validations.
