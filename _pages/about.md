@@ -11,4 +11,4 @@ I am currently a research assistant at New York University Abu Dhabi under [Pier
 
 I completed my undergraduate degree in 2023 at NYU Abu Dhabi with a major in mathematics and a minor in computer science. Starting from September 2024, I will be joining the master's program in data science at ETH Zürich.
 
-You can find my other website documenting photos [here](https://sueiwenchen.wixsite.com/myphotos)
+You can find my other website documenting photos [here](https://sueiwenchen.wixsite.com/myphotos).
