@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Suei-Wen Chen's Homepage"
+title                    : "Suei-Wen's Homepage"
 title_separator          : "-"
 name                     : &name "Suei-Wen Chen"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Suei-Wen Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Abu Dhabi, UAE"
-  employer         : "New York University Abu Dhabi"
+  employer         : "NYU Abu Dhabi"
   uri              : # URL
   email            : "sueiwen.chen@nyu.edu" 
 
