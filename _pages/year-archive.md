@@ -18,18 +18,18 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Notes on reinforcement learning
+## Notes on reinforcement learning
 - [Markov decision processes and Monte Carlo methods](/files/Notes_ReinforcementLearning.pdf)
 - [Multi-arm bandit problem](https://hackmd.io/@sueiwenchen/MultiArmBandit)
 - [A graph perspective on generalized policy iteration](https://hackmd.io/@sueiwenchen/graph-perspective-on-gpi)
 - [Sample complexity for episodic MDPs](https://hackmd.io/@sueiwenchen/episodic-mdp-sample-complexity)
 
-# Notes on probability theory
+## Notes on probability theory
 - [Inverse cumulative distribution function](https://hackmd.io/@sueiwenchen/inverse-cdf)
 - [Absorbing Markov chains](https://hackmd.io/@sueiwenchen/absorbing-markov-chains)
 - [Wasserstein distance and path coupling](https://hackmd.io/@sueiwenchen/wasserstein-distance)
 - [Convergence of Stochastic Iterations](https://hackmd.io/@sueiwenchen/stochastic-iteration-convergence)
 
-# Notes on big data systems
+## Notes on big data systems
 - [Distributed File Systems](https://hackmd.io/@sueiwenchen/distributed-file-systems)
 - [Apache Spark and Resilient Distributed Datasets](https://hackmd.io/@sueiwenchen/apache-spark)
