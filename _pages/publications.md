@@ -14,3 +14,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+# Articles
+My undergraduate thesis concerns Markov chains and mixing times in relation to functional inequalities. Please see [here](/files/CapstoneProject_MarkovChainsMixingTimesAndFunctionalInequalities.pdf) for a long version and [here](/files/AFuzzyDecompositionMethodToEstablishFunctionalInequalities.pdf) for a short version.
