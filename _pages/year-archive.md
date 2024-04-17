@@ -29,6 +29,7 @@ redirect_from:
 - [Absorbing Markov chains](https://hackmd.io/@sueiwenchen/absorbing-markov-chains)
 - [Wasserstein distance and path coupling](https://hackmd.io/@sueiwenchen/wasserstein-distance)
 - [Convergence of Stochastic Iterations](https://hackmd.io/@sueiwenchen/stochastic-iteration-convergence)
+- [Concentration of sum of random-length sequences](https://hackmd.io/@sueiwenchen/concentration-sum-of-random-length-sequence)
 
 ## Notes on big data systems
 - [Distributed File Systems](https://hackmd.io/@sueiwenchen/distributed-file-systems)
