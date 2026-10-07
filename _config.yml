@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Suei-Wen Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : "Zürich, Switzerland"
+  employer         : "ETH Zürich"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sueiwen.chen@gmail.com" 
 
   # Academic websites
   academia         : # URL
