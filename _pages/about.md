@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Suei-Wen Chen's Homepage"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
