@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* **Teaching Assistant** (Aug 2025 -- Present) \| *Department of Computer Science, ETH Zürich* 
+* **Teaching Assistant** (Aug 2025 -- Present) <span style="float: right;">*Department of Computer Science, ETH Zürich* </span>
   * AI in Industry: Fall 2025, Spring 2026, Fall 2026
   * [From Data to Decisions](https://eth-fdd-fs26.github.io/FDD-Page/): Summer 2026
 

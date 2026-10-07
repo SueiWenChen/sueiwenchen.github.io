@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Suei-Wen Chen's Homepage"
-title_separator          : " "
+title                    : "Suei-Wen Chen / Home"
+title_separator          : ""
 name                     : &name "Suei-Wen Chen"
 description              : &description "Homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://sueiwenchen.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
