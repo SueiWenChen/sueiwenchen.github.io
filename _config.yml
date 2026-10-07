@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Homepage"
+title                    : "Suei-Wen Chen's Homepage"
 title_separator          : " "
 name                     : &name "Suei-Wen Chen"
 description              : &description "Homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -30,7 +30,7 @@ author:
   location         : "Zürich, Switzerland"
   employer         : "ETH Zürich"
   uri              : # URL
-  email            : "sueiwen.chen@gmail.com" 
+  email            : # "sueiwen.chen@gmail.com" 
 
   # Academic websites
   academia         : # URL

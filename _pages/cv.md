@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc in Data Science, ETH Zürich, 2024-2027
+* BSc in Mathematics, NYU Abu Dhabi, 2019-2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Teaching Assistant (Aug 2025 -- Present) | *Department of Computer Science, ETH Zürich* 
+  * AI in Industry: Fall 2025, Spring 2026, Fall 2026
+  * [From Data to Decisions](https://eth-fdd-fs26.github.io/FDD-Page/): Summer 2026
 
-* Fall 2015: Research Assistant
+* Research Assistant (Sep 2023 -- Aug 2024) | *Division of Science, NYU Abu Dhabi*
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
