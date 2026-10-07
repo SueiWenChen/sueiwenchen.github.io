@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Suei-Wen Chen"
-title_separator          : "-"
+title                    : "Homepage"
+title_separator          : " "
 name                     : &name "Suei-Wen Chen"
 description              : &description "Homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://sueiwenchen.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "sueiwenchen" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -138,7 +138,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -227,9 +227,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
