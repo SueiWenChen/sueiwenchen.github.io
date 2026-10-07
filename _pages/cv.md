@@ -16,20 +16,21 @@ Education
 
 Work experience
 ======
-* **Teaching Assistant** \| *Department of Computer Science, ETH Zürich* <span style="float: right;">Aug 2025 -- Present</span>
+* **Teaching Assistant**, *Department of Computer Science, ETH Zürich* <span style="float: right;">Aug 2025 -- Present</span>
   * [AI in Industry](https://eth-ainit-hs26.github.io/AINIT-PAGE/): Fall 2025, Spring 2026, Fall 2026 (Head TA)
   * [From Data to Decisions](https://eth-fdd-fs26.github.io/FDD-Page/): Summer 2026
-* **Research Assistant** \| *Division of Science, NYU Abu Dhabi* <span style="float: right;">Sep 2023 -- Aug 2024</span>
-* **Data Science Intern** \| *Swftbox Delivery Service LLC, UAE* <span style="float: right;">Mar 2022 – Aug 2023</span>
+* **Research Assistant**, *Division of Science, NYU Abu Dhabi* <span style="float: right;">Sep 2023 -- Aug 2024</span>
+* **Data Science Intern**, *Swftbox Delivery Service LLC, UAE* <span style="float: right;">Mar 2022 – Aug 2023</span>
 
 Research
 ======
 * **Benchmarking Mathematical Capabilities of LLMs** <span style="float: right;">Sep 2026</span>
 * **Matrix Chaos Inequalities** <span style="float: right;">Jun 2025</span>
-* **Finite-Sample Analysis of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning** <span style="float: right;"Aug 2024</span>
-* **How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse**  <span style="float: right;"Apr 2024</span>
+* **Finite-Sample Analysis of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning** <span style="float: right;">Aug 2024</span>
+  * [arXiv:2410.02994](https://arxiv.org/abs/2410.02994)
+* **How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse** <span style="float: right;">Apr 2025</span>
   * Published in *Conference on Language Modeling (COLM) 2024*, [arXiv:2404.05090]('https://arxiv.org/abs/2404.05090')
-* **Markov Chains, Mixing Times and Functional Inequalities** <span style="float: right;"May 2023</span>
+* **Markov Chains, Mixing Times and Functional Inequalities** <span style="float: right;">May 2023</span>
   * Undergraduate Thesis, [arXiv:2410.17301](https://arxiv.org/abs/2410.17301)
 
 Lectures
