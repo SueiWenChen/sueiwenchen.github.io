@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,14 +16,12 @@ Education
 
 Work experience
 ======
-* Teaching Assistant (Aug 2025 -- Present) | *Department of Computer Science, ETH Zürich* 
+* **Teaching Assistant** (Aug 2025 -- Present) \| *Department of Computer Science, ETH Zürich* 
   * AI in Industry: Fall 2025, Spring 2026, Fall 2026
   * [From Data to Decisions](https://eth-fdd-fs26.github.io/FDD-Page/): Summer 2026
 
-* Research Assistant (Sep 2023 -- Aug 2024) | *Division of Science, NYU Abu Dhabi*
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Assistant** (Sep 2023 -- Aug 2024) \| *Division of Science, NYU Abu Dhabi*
+
 
   
 Skills
