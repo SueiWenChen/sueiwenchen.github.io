@@ -20,14 +20,10 @@ Work experience
   * [AI in Industry](https://eth-ainit-hs26.github.io/AINIT-PAGE/): Fall 2025, Spring 2026, Fall 2026 (Head TA)
   * [From Data to Decisions](https://eth-fdd-fs26.github.io/FDD-Page/): Summer 2026
 * **Research Assistant** \| *Division of Science, NYU Abu Dhabi* <span style="float: right;">Sep 2023 -- Aug 2024</span>
-* **Data Science Intern** | *Swftbox Delivery Service LLC, UAE* <span style="float: right;">Mar 2022 – Aug 2023</span>
-  
+* **Data Science Intern** \| *Swftbox Delivery Service LLC, UAE* <span style="float: right;">Mar 2022 – Aug 2023</span>
 
 Research
 ======
-  <!-- <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 * **Benchmarking Mathematical Capabilities of LLMs** <span style="float: right;">Sep 2026</span>
 * **Matrix Chaos Inequalities** <span style="float: right;">Jun 2025</span>
 * **Finite-Sample Analysis of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning** <span style="float: right;"Aug 2024</span>
@@ -44,6 +40,14 @@ Lectures
   * Safe Reinforcement Learning ([Slides](https://raw.githubusercontent.com/eth-fdd-fs26/FDD-WE4-public/main/6_risk_rl/lecture/FDD26-W4-SafeRL.pdf))
   * ANN, Vector Search & Hybrid Search ([Slides](https://raw.githubusercontent.com/eth-fdd-fs26/FDD-WE5-public/main/lectures/FDD26-W5-ANN-Hybrid-Search.pdf))
 
+
+
+<!-- Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
