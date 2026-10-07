@@ -35,7 +35,7 @@ Research
 
 Lectures
 ======
-* [From Data to Decisions](https://eth-fdd-fs26.github.io/FDD-Page/) <span style="float: right;">ETH Zürich, Aug 2026</span>
+* [From Data to Decisions](https://eth-fdd-fs26.github.io/FDD-Page/), ETH Zürich <span style="float: right;">Aug 2026</span>
   * Introduction to Reinforcement Learning ([Slides](https://raw.githubusercontent.com/eth-fdd-fs26/FDD-WE4-public/main/1_rl_intro/lecture/FDD26-W4-ReIntroToRL.pdf))
   * Policy Gradient Methods ([Slides](https://raw.githubusercontent.com/eth-fdd-fs26/FDD-WE4-public/main/2_pg/lecture/FDD26-W4-PolicyGradient.pdf))
   * Safe Reinforcement Learning ([Slides](https://raw.githubusercontent.com/eth-fdd-fs26/FDD-WE4-public/main/6_risk_rl/lecture/FDD26-W4-SafeRL.pdf))
