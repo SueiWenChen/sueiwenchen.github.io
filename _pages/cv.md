@@ -25,7 +25,7 @@ Work experience
 Research
 ======
 * **Benchmarking Mathematical Capabilities of LLMs** <span style="float: right;">Sep 2026</span>
-* **Matrix Chaos Inequalities** <span style="float: right;">Jun 2025</span>
+* **Applications of Matrix Chaos Inequalities** <span style="float: right;">Jun 2025</span>
 * **Finite-Sample Analysis of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning** <span style="float: right;">Aug 2024</span>
   * [arXiv:2410.02994](https://arxiv.org/abs/2410.02994)
 * **How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse** <span style="float: right;">Apr 2025</span>
@@ -41,6 +41,15 @@ Lectures
   * Safe Reinforcement Learning ([Slides](https://raw.githubusercontent.com/eth-fdd-fs26/FDD-WE4-public/main/6_risk_rl/lecture/FDD26-W4-SafeRL.pdf))
   * ANN, Vector Search & Hybrid Search ([Slides](https://raw.githubusercontent.com/eth-fdd-fs26/FDD-WE5-public/main/lectures/FDD26-W5-ANN-Hybrid-Search.pdf))
 
+
+
+Recent Projects
+======
+* **Reinforcement learning on vehicle routing problems**  <span style="float: right;">May 2026</span>
+  * Policy-gradient method with attention-based feature encoding for capacitated vehicle routing problem on road networks
+
+* **Tool-Gym: Tool-Calling Data Generation Pipeline** <span style="float: right;">Sep 2025 -- Dec 2025</span>
+  * Constructing RLVR data pipeline for LLM post-training on tool-calling
 
 
 <!-- Publications
