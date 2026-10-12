@@ -49,7 +49,7 @@ Recent Projects
   * Policy-gradient method with attention-based feature encoding for capacitated vehicle routing problem on road networks
 
 * **Tool-Gym: Tool-Calling Data Generation Pipeline** <span style="float: right;">Sep 2025 -- Dec 2025</span>
-  * Constructing RLVR data pipeline for LLM post-training on tool-calling
+  * Constructing RLVR data pipeline for LLM post-training on tool-calling (Apertus)
 
 
 <!-- Publications
