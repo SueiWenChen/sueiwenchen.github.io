@@ -31,7 +31,7 @@ Research
 * **How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse** <span style="float: right;">Apr 2025</span>
   * Published in *Conference on Language Modeling (COLM) 2024*, [arXiv:2404.05090](https://arxiv.org/abs/2404.05090)
 * **Markov Chains, Mixing Times and Functional Inequalities** <span style="float: right;">May 2023</span>
-  * Undergraduate Thesis ([arXiv:2410.17301](https://arxiv.org/abs/2410.17301)), ([full version](https://sueiwenchen.github.io/files/CapstoneProject_MarkovChainsMixingTimesAndFunctionalInequalities.pdf))
+  * Undergraduate Thesis ([arXiv:2410.17301](https://arxiv.org/abs/2410.17301), [full version](https://sueiwenchen.github.io/files/CapstoneProject_MarkovChainsMixingTimesAndFunctionalInequalities.pdf))
 
 Lectures
 ======
@@ -48,7 +48,7 @@ Recent Projects
 * **Reinforcement learning on vehicle routing problems**  <span style="float: right;">May 2026</span>
   * Policy-gradient method with attention-based feature encoding for capacitated vehicle routing problem on road networks
 
-* **Tool-Gym: Tool-Calling Data Generation Pipeline** <span style="float: right;">Sep 2025 -- Dec 2025</span>
+* **[Tool-Gym: Tool-Calling Data Generation Pipeline](https://sueiwenchen.github.io/files/DataScienceLab_Report_ToolGym.pdf)** <span style="float: right;">Sep 2025 -- Dec 2025</span>
   * Constructed RLVR data pipeline for LLM post-training on tool-calling (Apertus)
 
 
