@@ -25,7 +25,7 @@ Work experience
 Research
 ======
 * **Benchmarking Mathematical Capabilities of LLMs** <span style="float: right;">Sep 2026</span>
-* **Applications of Matrix Chaos Inequalities** <span style="float: right;">Jun 2025</span>
+<!-- * **Applications of Matrix Chaos Inequalities** <span style="float: right;">Jun 2025</span> -->
 * **Finite-Sample Analysis of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning** <span style="float: right;">Aug 2024</span>
   * [arXiv:2410.02994](https://arxiv.org/abs/2410.02994)
 * **How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse** <span style="float: right;">Apr 2025</span>
