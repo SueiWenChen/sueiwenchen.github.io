@@ -51,7 +51,8 @@ Recent Projects
 * **[Tool-Gym: Tool-Calling Data Generation Pipeline](https://sueiwenchen.github.io/files/DataScienceLab_Report_ToolGym.pdf)** <span style="float: right;">Sep 2025 -- Dec 2025</span>
   * Constructed RLVR data pipeline for LLM post-training on tool-calling (Apertus)
 
-
+---
+[pdf version](https://sueiwenchen.github.io/files/CV_Oct2026.pdf)
 <!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
