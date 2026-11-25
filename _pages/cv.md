@@ -52,4 +52,4 @@ Recent Projects
   * Constructed RLVR data pipeline for LLM post-training on tool-calling (Apertus)
 
 ---
-[pdf version](https://sueiwenchen.github.io/files/CV_Oct2026.pdf)
+[pdf version](https://sueiwenchen.github.io/files/CV_Nov2026.pdf)
